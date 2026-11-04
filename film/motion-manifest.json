@@ -1,0 +1,26 @@
+{
+  "title": "Cinematic Minimalism",
+  "study": "cm01",
+  "bpm": 88,
+  "source_audio": "preview/cinematic-minimalism-simple-synth-preview.mp3",
+  "source_audio_sha256": "502c301d2760e51d545ea2b923509f8983a7ecee3dadff34e02a29381f7affed",
+  "source_midi": "midi/cm01-first-frame/cm01-first-frame-combined.mid",
+  "source_midi_sha256": "689602840bffc0136afdbcaae56e0f7de6b082ddf73da00f4e6cb198ad8448d1",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "7c1bffff2f600f25614693b37fa519f857aedca9ed3b5fd724a2f6148ea19c1b",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "94a96e915008c63ccfe87e188db37543debb7f4b01e4345a634d5ed5cad35ab5",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "39d06d3efd0f1a7ba135482d2ea492695db0f77b711b67524922867dcffab45e",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
