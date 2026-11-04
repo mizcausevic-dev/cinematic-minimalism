@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+cm01,First Frame,pack-local equal-tempered pitch collection,D,88,4/4,480,32,61440,midi/cm01-first-frame/cm01-first-frame-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cm02,Held Line,pack-local equal-tempered pitch collection,F,88,4/4,480,32,61440,midi/cm02-held-line/cm02-held-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cm03,Distance Cue,pack-local equal-tempered pitch collection,G#,88,4/4,480,32,61440,midi/cm03-distance-cue/cm03-distance-cue-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cm04,Final Return,pack-local equal-tempered pitch collection,D#,88,4/4,480,32,61440,midi/cm04-final-return/cm04-final-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

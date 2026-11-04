@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/cinematic-minimalism-simple-synth-preview.mp3",
+  "preview_sha256": "502c301d2760e51d545ea2b923509f8983a7ecee3dadff34e02a29381f7affed",
+  "source_midi_path": "midi/cm01-first-frame/cm01-first-frame-combined.mid",
+  "source_midi_sha256": "689602840bffc0136afdbcaae56e0f7de6b082ddf73da00f4e6cb198ad8448d1",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "cm01",
+    "start_seconds": 0,
+    "end_seconds": 87.273
+  },
+  "measurement": {
+    "sample_peak": 0.172267,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
